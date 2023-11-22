@@ -5,5 +5,5 @@ you can download the model from [here](https://huggingface.co/saravanamax/image_
 # Running the app
 1.) clone the repository
 2.) Donwnload the model from the link
-3.) Run the file app.py { python run.ppy}
+3.) Run the file app.py { python run.py}
     The app will run on gradio on your localhost
